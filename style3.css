@@ -1,0 +1,84 @@
+.google{
+    position: relative;
+    left: 597px;
+    top: 169px;
+}
+body{
+    overflow: hidden;
+    background-color: #12151a;
+}
+input[value="Google Search"]{
+    display: block;
+    position: relative;
+
+}
+
+input[type="text"]{
+    background-color: #12151a;
+    color: white;
+    width: 400px;
+    height: 35px;
+    position: relative;
+    left: 450px;
+    top: 128px;
+    border: 1px white solid;
+    border-radius: 82px;
+    text-align: center;
+    border-color: rgb(201, 201, 201);
+}
+input[type="submit"]{
+    background-color :
+    #303134 ;
+
+    height:35px ;
+    border-radius: 5px;
+    color: white;
+    border: 1px;
+    padding: 10px;
+}
+input[type="submit"]:hover{
+    background-color: rgb(174, 203, 250);
+    color: black;
+}
+
+img{
+    height: 80px;    
+    position: relative;
+    left: 520px;
+    top: 175px;
+    width: 20%;
+    margin-bottom: 25px;
+    
+    
+}
+.anchor1{
+    color: white;
+    font-family: arial, sans-serif;
+    font-size:13px;
+    line-height:24px;
+    vertical-align:middle;
+    font-weight:400;
+    font-style:normal;
+    font-variant:normal;
+    text-transform:none;
+    text-decoration:underline solid rgb(255, 255, 255);
+    text-align:start;
+    text-indent:0px;
+    text-decoration: none;
+    position: relative;
+    left: 1150px;
+    top: -86px;
+}
+
+.li1{
+    list-style: none;
+}
+
+
+
+.button{
+    position: relative;
+    left: 652px;
+    top: 131px;
+
+}
